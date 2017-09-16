@@ -1,0 +1,35 @@
+Cube^2
+
+A platformer game where the player controls a square to adventure through challenges and levels to beat the game.
+
+Basic Controls:
+
+	Left arrow key- Move left
+	Right arrow key- Move Right
+	Space bar- Jump
+	Backspace- Back to menu
+	Kill ECubes by jumping on top or hitting their corner
+	More on instruction screen
+	
+Features:
+
+	Able to jump and move left/right
+	Enemies with different sizes and movement speed
+	Powerups (Increases movement speed and jump height)
+	Pause Screen
+	Instruction screen
+	
+	
+Made for a school project
+
+Made using Game Maker: Studio
+
+Author: McBlues (Ray Liu)
+
+Minumum hardware requirements:
+
+Windows XP/VISTA/7/8
+Processor: 1 GHZ or faster
+RAM: 1GB
+Disk space available: 5MB
+Graphics card: Intel HD Graphics
