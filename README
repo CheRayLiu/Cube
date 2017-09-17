@@ -1,8 +1,6 @@
 ****Download "Cube^2_30fps.exe" to play the game *****
+
 Made using Game Maker: Studio
-
-
-
 
 Cube^2
 
@@ -16,26 +14,8 @@ Basic Controls:
 	Backspace- Back to menu
 	Kill ECubes by jumping on top or hitting their corner
 	More on instruction screen
-	
-Features:
-
-	Able to jump and move left/right
-	Enemies with different sizes and movement speed
-	Powerups (Increases movement speed and jump height)
-	Pause Screen
-	Instruction screen
-	
-	
-Made for a school project
 
 
 
-Author: McBlues (Ray Liu)
+Author: Ray Liu
 
-Minumum hardware requirements:
-
-Windows XP/VISTA/7/8
-Processor: 1 GHZ or faster
-RAM: 1GB
-Disk space available: 5MB
-Graphics card: Intel HD Graphics
